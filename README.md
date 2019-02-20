@@ -1,0 +1,2 @@
+# bostemplate
+Link credit template
